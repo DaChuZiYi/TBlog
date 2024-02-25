@@ -1,0 +1,99 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:4000/Notebook/</id>
+  <title>Notebook</title>
+  <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
+  <updated>2024-02-25T12:05:26+08:00</updated>
+  <author>
+    <name>Grow-with-Open-Source</name>
+    <uri>http://localhost:4000/Notebook/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4000/Notebook/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="zh_CN"
+    href="http://localhost:4000/Notebook/"/>
+  <generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator>
+  <rights> © 2024 Grow-with-Open-Source </rights>
+  <icon>/Notebook/assets/img/favicons/favicon.ico</icon>
+  <logo>/Notebook/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>Contribute to Notebook</title>
+    <link href="http://localhost:4000/Notebook/posts/contribute-to-notebook/" rel="alternate" type="text/html" title="Contribute to Notebook" />
+    <published>2023-09-27T15:53:00+08:00</published>
+  
+    <updated>2023-09-27T15:53:00+08:00</updated>
+  
+    <id>http://localhost:4000/Notebook/posts/contribute-to-notebook/</id>
+    <content src="http://localhost:4000/Notebook/posts/contribute-to-notebook/" />
+    <author>
+      <name>shamith_watchdogs</name>
+    </author>
+
+  
+    
+    <category term="Welcome" />
+    
+    <category term="Tutorial" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Welcome to the Notebook open-source project, where you can be a part of a thriving community of technical writers and developers! This project utilizes GitHub’s Jekyll1 framework to create a dynamic platform for sharing technical knowledge and learning from one another. Whether you’re a beginner eager to learn or an experienced developer looking to contribute, Notebook offers a win-win opportun...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Welcome to the Notebook</title>
+    <link href="http://localhost:4000/Notebook/posts/welcome-page/" rel="alternate" type="text/html" title="Welcome to the Notebook" />
+    <published>2023-09-21T23:04:00+08:00</published>
+  
+    <updated>2023-09-21T23:04:00+08:00</updated>
+  
+    <id>http://localhost:4000/Notebook/posts/welcome-page/</id>
+    <content src="http://localhost:4000/Notebook/posts/welcome-page/" />
+    <author>
+      <name>shamith_watchdogs</name>
+    </author>
+
+  
+    
+    <category term="Welcome" />
+    
+    <category term="Guide" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Are you a tech enthusiast looking to expand your knowledge, or perhaps an experienced developer eager to share your expertise with the world? Notebook is the perfect place for you!
+
+What is Notebook?
+
+Notebook is an open-source project built on GitHub’s Jekyll framework, designed to create a welcoming and collaborative platform for developers of all levels. We’ve used the charming Chirpy theme ...
+    </summary>
+  
+
+  </entry>
+
+</feed>
+
+
