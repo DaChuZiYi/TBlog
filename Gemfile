@@ -1,11 +1,13 @@
 # frozen_string_literal: true
 
-source "https://rubygems.org"
-
+source "https://gems.ruby-china.com"
+# https://rubygems.org
+# https://gems.ruby-china.com
 gemspec
 
 group :test do
   gem "html-proofer", "~> 4.4"
+  gem 'jekyll-compose', group: [:jekyll_plugins]
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
