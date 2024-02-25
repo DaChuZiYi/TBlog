@@ -78,7 +78,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: assets/img/favicons/android-chrome-384x384.png
+avatar: assets\img\favicons\android-chrome-384x384.png
 
 # boolean type, the global switch for TOC in posts.
 toc: true
@@ -94,7 +94,7 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: "Grow-with-Open-Source/Notebook"
+    repo: "Grow-with-Open-Source\Notebook"
     repo_id: "R_kgDOKaBqDg"
     category: "Notebook-Comments"
     category_id: "DIC_kwDOKaBqDs4CZvoj"
@@ -157,11 +157,11 @@ defaults:
       layout: page
       permalink: /:title/
   - scope:
-      path: assets/img/favicons
+      path: assets\img\favicons
     values:
       swcache: true
   - scope:
-      path: assets/js/dist
+      path: assets\js\dist
     values:
       swcache: true
 
