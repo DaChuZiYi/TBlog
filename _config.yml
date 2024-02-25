@@ -106,11 +106,11 @@ comments:
 # 自托管的静态资源，可选 › https://github.com/cotes2020/chirpy-static-assets
 assets:
   self_host:
-    enabled: true
+    enabled: 
     # 布尔值，保持为空表示 false
     # 指定 Jekyll 环境，保持空白表示两者
     # 仅当 `assets.self_host.enabled` 为 'true' 时才有效
-    env: production
+    env: 
     # [development | production]
 
 pwa:
