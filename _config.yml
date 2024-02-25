@@ -110,7 +110,8 @@ assets:
     # 布尔值，保持为空表示 false
     # 指定 Jekyll 环境，保持空白表示两者
     # 仅当 `assets.self_host.enabled` 为 'true' 时才有效
-    env: # [development | production]
+    env: production
+    # [development | production]
 
 pwa:
   enabled: true # PWA 功能（可安装）的选项
